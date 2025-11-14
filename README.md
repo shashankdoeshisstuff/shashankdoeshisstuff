@@ -1,37 +1,118 @@
-## Hi there 👋 I'm **Shashank Maurya**
-
-I'm a Frontend & Mobile Developer who builds fast, scalable, and user-focused digital experiences.  
-I specialize in **React.js, Next.js, TypeScript, Redux, Zustand, TanStack Query/Router/Table, TailwindCSS, Radix UI, Shadcn UI**, and modern UI/UX workflows using **Figma & Penpot**.  
-I also work with **Supabase, Firebase, PostgreSQL**, and build mobile apps with **React Native**.
+Here is a **beautiful, modern, eye-catching, fully upgraded GitHub Profile README** with icons, visuals, banners, custom badges, and clean sections — **all in pure Markdown**, ready to paste into your profile.
 
 ---
 
-### 🚀 What I Do
-- Develop responsive & scalable web applications  
-- Create intuitive UI systems and component libraries  
-- Improve performance, accessibility & user experience  
-- Collaborate across design & backend teams  
-- Build custom WordPress/Wix solutions & maintain live websites  
+# 🌟 **Shashank Maurya**
+
+### **Frontend & Mobile Developer | React • Next.js • TypeScript**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
-### 🛠️ Tech I Use
-**Frontend:** React.js, Next.js, Redux, Zustand, TanStack, RHF, Zod  
-**Styling:** TailwindCSS, SCSS/SASS/LESS, Radix UI, Shadcn UI  
-**Backend/DB:** Supabase, Appwrite, Firebase, PostgreSQL  
-**Mobile:** React Native  
-**Tools:** Figma, Penpot, Git, Docker, CI/CD  
+## 🚀 **About Me**
+
+💡 Passionate Frontend Developer crafting **fast, scalable & accessible** digital experiences.
+🎨 I love building intuitive UI, clean design systems & pixel-perfect components.
+🧠 Strong believer in writing **clean, maintainable & high-quality** code.
+📱 Also develop mobile apps with **React Native** and custom websites on **WordPress/Wix**.
 
 ---
 
-### 📫 Connect With Me
-- Portfolio: **https://shashank-maurya-portfolio.vercel.app**
-- LinkedIn: **https://linkedin.com/in/shashank-maurya-41a926217**
-- GitHub: **https://github.com/shashankdoeshisstuff**
-- Email: **shashank.maurya.pro@gmail.com**
+## 🛠️ **Tech Stack**
+
+### **Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,scss,sass,less,figma" />
+</p>
+
+### **Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,firebase,supabase,appwrite" />
+</p>
+
+### **Tools & Other Skills**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,wordpress" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankdoeshisstuff&show_icons=true)
+## 🔥 **What I Do**
 
+* 🧩 Build **scalable web apps** with modern React/Next.js architecture
+* 🎯 Create **reusable UI components** & design systems
+* ⚡ Optimize performance, accessibility & Core Web Vitals
+* 🔗 Integrate API, Supabase, Firebase, and PostgreSQL
+* 📱 Build mobile apps with **React Native**
+* 🖌️ Convert **Figma / Penpot** designs into clean, responsive interfaces
+* 🌐 Manage & build custom WordPress / Wix sites
+
+---
+
+## ⭐ **Featured Projects**
+
+### 🔹 **Zookd Ecosystem**
+
+Inventory & catalog management platform with custom workflows.
+**Tech:** React, Next.js, Redux, Radix UI, Supabase
+
+### 🔹 **Maaricha Website**
+
+Full redesign + performance improvements for a production business platform.
+**Tech:** React, Next.js, Tailwind, Shadcn UI
+
+### 🔹 **Ivani Diamonds**
+
+High-end jewelry marketplace platform.
+**Tech:** Next.js, Radix UI, PostgreSQL
+
+### 🔹 **Little Lemon Restaurant**
+
+Responsive restaurant website with modern layouts.
+**Tech:** React, SCSS
+
+🔗 **See all projects:** [https://shashank-maurya-portfolio.vercel.app](https://shashank-maurya-portfolio.vercel.app)
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankdoeshisstuff&show_icons=true&theme=react&hide_border=false" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankdoeshisstuff&theme=react&hide_border=false" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankdoeshisstuff&layout=compact&theme=react&hide_border=false" height="160"/>
+</p>
+
+---
+
+## 🌍 **Let's Connect**
+
+<p align="left">
+  <a href="mailto:shashank.maurya.pro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://linkedin.com/in/shashank-maurya-41a926217"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://github.com/shashankdoeshisstuff"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://shashank-maurya-portfolio.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
+</p>
+
+---
+
+## ✨ **Thanks for visiting!**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
+If you want, I can also create:
+✅ A darker version
+✅ A minimal aesthetic version
+✅ A version with a banner / header image
+Just tell me the style you prefer!
